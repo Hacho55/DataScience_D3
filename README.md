@@ -2,8 +2,9 @@
 ## Desafío 3
 ### Grupo 4
 
-Problemas de Clasificación de datos
-Datasets propuestos:
+Problemas de Clasificación de datos.
+
+#### Datasets propuestos:
 
 **Marketing Bancario:** https://www.kaggle.com/henriqueyamahata/bank-marketing
 
